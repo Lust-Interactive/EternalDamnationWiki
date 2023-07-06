@@ -1,5 +1,10 @@
 # Welcome to the Dante's Crest Wiki
 
+A new MMO set in the underworld, or Hell, as the two-legged meatsacks from upstairs call it.
+Set in a Low-Poly 3D environment, complete quests as you try to find an ancient artefact that will help you defeat the "Voidtide".
+
+
+
 ## Storyline
 
 The many realms of the Afterlife, the Underworld, and even Hell itself make up the far-corners of Incartum, a plane of existence that houses other-worldly horrors beyond mortal comprehension. The realms are inhabited by the deceased, in a manner befitting the beliefs of the faithful, along with a dark and insidious force known as the Voidtide. The Voidtide is an ancient cosmic energy that oozes from the depths of a forbidden dimension, seeping into the realms and corrupting everything in its path. It is an entity of pure chaos and destruction, feeding on the essence of belief, of faith, and of death itself.

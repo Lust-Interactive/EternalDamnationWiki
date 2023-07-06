@@ -66,6 +66,7 @@ nav:
       - Lore: lore.md
       - Recuring Characters: recuringcharacters.md
     - Links:
+      - Contributing: CONTRIBUTING.md
       - Discord: https://discord.gg/XN6YRfSMMt
 theme:
   icon:
