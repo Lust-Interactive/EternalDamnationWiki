@@ -1,5 +1,5 @@
 site_name: Dante's Crest Wiki
-site_url: https://lust-interactive.github.io/dantescrestwiki/
+site_url: https://lust-interactive.github.io/DantesCrestWiki/
 repo_url: https://github.com/lust-interactive/dantescrestwiki/
 repo_name: lust-interactive/dantescrestwiki
 site_description: Dante's Crest Wiki
@@ -10,8 +10,58 @@ site_dir: _site/
 
 nav:
     - Wiki Home: index.md
-    - Systems & Mechanics:
+    - Game Roadmap: gameroadmap.md
+    - Classes:
+      - Shade: shade.md
+      - Chaotic Good:
+        - Archer: archer.md
+        - Druid: druid.md
+        - Monk: monk.md
+        - Paladin: paladin.md
+        - Priest: priest.md
+      - Chaotic Neutral:
+        - Alchemist: alchemist.md
+        - Bard: bard.md
+        - Engineer: engineer.md
+        - Rogue: rogue.md
+        - Witch Doctor: witchdoctor.md
+      - Chaotic Evil:
+        - Dread Knight: dreadknight.md
+        - Necromancer: necromancer.md
+        - Shadowblade: shadowblade.md
+        - Sorcerer: sorcerer.md
+        - Warlock: warlock.md
+    - Mechanics:
+      - Alliances: alliances.md
+      - Attributes: attributes.md
+      - Battlegrounds: battlegrounds.md
+      - Combat: combat.md
+      - Crafting: crafting.md
+      - Currency: currency.md
+      - Dungeons: dungeons.md
+      - Enchanting: enchanting.md
+      - Equipment: equipment.md
+      - Factions: factions.md
+      - Instanced Dungeons: instanceddungeons.md
+      - Items: items.md
+      - Leveling: leveling.md
+      - Mounts: mounts.md
       - Portals: portals.md
+      - Quests: quests.md
+    - Professions:
+      - Alchemist: alchemist.md
+      - Blacksmith: blacksmith.md
+      - Carpenter: carpenter.md
+      - Cook: cook.md
+      - Enchanter: enchanter.md
+      - Engineer: engineer.md
+      - Jeweler: jeweler.md
+      - Leatherworker: leatherworker.md
+      - Tailor: tailor.md
+      - Tinkerer: tinkerer.md
+    - Lust Universe:
+      - Lore: lore.md
+      - Recuring Characters: recuringcharacters.md
     - Links:
       - Discord: https://discord.gg/XN6YRfSMMt
 theme:
@@ -21,7 +71,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: img/favicon.ico
-  logo: img/ra_user_guides_logo.png
+  logo: img/dantes_crest_logo_base.png
   name: material
   features:
     - announce.dismiss
@@ -55,7 +105,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/wikipedia-w
-      link: https://lust-interactive.github.io/dantescrestwiki/
+      link: https://lust-interactive.github.io/DantesCrestWiki/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/XN6YRfSMMt
 
