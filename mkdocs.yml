@@ -32,7 +32,7 @@ nav:
         - Sorcerer: class/sorcerer.md
         - Warlock: class/warlock.md
     - Mechanics:
-      - Alliances: mechanics/alliances.md
+      - Alliance: mechanics/alliance.md
       - Attributes: mechanics/attributes.md
       - Battlegrounds: mechanics/battlegrounds.md
       - Combat: mechanics/combat.md
