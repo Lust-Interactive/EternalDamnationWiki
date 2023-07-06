@@ -13,7 +13,7 @@ The many realms of the Afterlife, the Underworld, and even Hell itself make up t
 Many centuries ago, a group of powerful mages attempted to unlock the secrets of the cosmos and gain godlike powers, elevating themselves to rulers of their realm. In their hubris, they inadvertently ruptured the fabric of reality, unleashing the Voidtide upon the world. Since that cataclysmic event, the darkness has spread relentlessly, devouring the realms and twisting creatures into nightmarish abominations.
 
 
-The Voidtide corrupts the very fabric of reality, warping landscapes, and distorting natural laws. It infects the minds of the weak-willed, driving them to madness and turning them into mindless minions. Its tendrils reach far and wide, seeking to consume all forms of life and plunge the world into eternal chaos.
+The Voidtide corrupts the very fabric of reality, warping landscapes, and distorting natural laws. It infects the minds of the weak-willed, driving them to madness and turning them into mindless minions. Its tendrils reach far and wide, seeking to consume all forms of life and death, and plunge the realms into eternal chaos.
 
 
 
