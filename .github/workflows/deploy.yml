@@ -3,11 +3,11 @@ name: Publish Guides
 on:
   # Allow manual deployment
   workflow_dispatch:
-  
+
   # Trigger when code is merged to `master` branch
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
