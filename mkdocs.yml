@@ -44,6 +44,7 @@ nav:
 #      - Tartarus: locations/tartarus.md
 #      - Erebus: locations/erebus.md
 #      - Chaos: locations/chaos.md
+      - Event Locations: locations/events.md
     - Mechanics:
 #      - Achievements: mechanics/achievements.md
       - Alliance: mechanics/alliance.md
