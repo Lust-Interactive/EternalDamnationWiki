@@ -46,10 +46,9 @@ nav:
 #      - Familiars: mechanics/familiars.md
       - Guilds: mechanics/guilds.md
 #      - Instanced Dungeons: mechanics/instanceddungeons.md
-#      - Items: mechanics/items.md
-      - Leveling: mechanics/leveling.md
+      - Levelling: mechanics/levelling.md
 #      - Mounts: mechanics/mounts.md
-#      - Portals: mechanics/portals.md
+      - Portals: mechanics/portals.md
 #      - Quests: mechanics/quests.md
       - Recruit a Friend: mechanics/recruitafriend.md
 #    - Professions:
