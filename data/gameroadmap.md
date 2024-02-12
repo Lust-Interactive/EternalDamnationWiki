@@ -35,7 +35,7 @@ Content Updates for Dante's Crest will be released in "Episodes" every few month
     - Main Quests, Level Cap Increased to 25
 - Q2: Episode 5.2 - Battleground Matching and PvP Areas
 - Q3: Episode 5.3 - Reputation & Achievements, Daily Quests
-- Q4: Episode 5.4 - Familiars
+- Q4: Episode 5.4 - Familiars, Locale Factions
 
 #### 2026
 
