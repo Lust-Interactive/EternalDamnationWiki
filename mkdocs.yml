@@ -31,6 +31,19 @@ nav:
 #        - Shadowblade: class/shadowblade.md
 #        - Sorcerer: class/sorcerer.md
 #        - Warlock: class/warlock.md
+    - Locations:
+      - Tutorial: locations/tutorial.md
+#      - Mysteria: locations/mysteria.md
+#      - Asphodel: locations/asphodel.md
+#      - Elysium: locations/elysium.md
+#      - Guinee: locations/guinee.md
+#      - Niflheim: locations/niflheim.md
+#      - Unknown Forest: locations/unknownforest.md
+#      - Actun: locations/actun.md
+#      - Hekla Fell: locations/heklafell.md
+#      - Tartarus: locations/tartarus.md
+#      - Erebus: locations/erebus.md
+#      - Chaos: locations/chaos.md
     - Mechanics:
 #      - Achievements: mechanics/achievements.md
       - Alliance: mechanics/alliance.md
@@ -48,6 +61,7 @@ nav:
 #      - Instanced Dungeons: mechanics/instanceddungeons.md
       - Levelling: mechanics/levelling.md
 #      - Mounts: mechanics/mounts.md
+      - Nature: mechanics/nature.md
       - Portals: mechanics/portals.md
       - Quests: mechanics/quests.md
       - Recruit a Friend: mechanics/recruitafriend.md
