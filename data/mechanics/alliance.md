@@ -2,7 +2,7 @@ There are 3 Alliances between the realms of Incartum.
 
 #### Bloodstone Order (BO)
 - Colour: Red
-- Base City: Mysteria
+- Base City: [Mysteria](../locations/mysteria.md)
 
 #### Everdark Disarray (ED)
 - Colour: Green

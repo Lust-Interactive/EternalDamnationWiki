@@ -33,7 +33,7 @@ nav:
 #        - Warlock: class/warlock.md
     - Locations:
       - Tutorial: locations/tutorial.md
-#      - Mysteria: locations/mysteria.md
+      - Mysteria: locations/mysteria.md
 #      - Asphodel: locations/asphodel.md
 #      - Elysium: locations/elysium.md
 #      - Guinee: locations/guinee.md
