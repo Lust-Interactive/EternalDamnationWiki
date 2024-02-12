@@ -11,61 +11,61 @@ site_dir: _site/
 nav:
     - Wiki Home: index.md
     - Game Roadmap: gameroadmap.md
-    - Classes:
-      - Shade: class/shade.md
-      - Chaotic Good:
-        - Archer: class/archer.md
-        - Druid: class/druid.md
-        - Monk: class/monk.md
-        - Paladin: class/paladin.md
-        - Priest: class/priest.md
-      - Chaotic Neutral:
-        - Alchemist: class/alchemist.md
-        - Bard: class/bard.md
-        - Engineer: class/engineer.md
-        - Rogue: class/rogue.md
-        - Witch Doctor: class/witchdoctor.md
-      - Chaotic Evil:
-        - Dread Knight: class/dreadknight.md
-        - Necromancer: class/necromancer.md
-        - Shadowblade: class/shadowblade.md
-        - Sorcerer: class/sorcerer.md
-        - Warlock: class/warlock.md
+#    - Classes:
+#      - Shade: class/shade.md
+#      - Chaotic Good:
+#        - Archer: class/archer.md
+#        - Druid: class/druid.md
+#        - Monk: class/monk.md
+#        - Paladin: class/paladin.md
+#        - Priest: class/priest.md
+#      - Chaotic Neutral:
+#        - Alchemist: class/alchemist.md
+#        - Bard: class/bard.md
+#        - Engineer: class/engineer.md
+#        - Rogue: class/rogue.md
+#        - Witch Doctor: class/witchdoctor.md
+#      - Chaotic Evil:
+#        - Dread Knight: class/dreadknight.md
+#        - Necromancer: class/necromancer.md
+#        - Shadowblade: class/shadowblade.md
+#        - Sorcerer: class/sorcerer.md
+#        - Warlock: class/warlock.md
     - Mechanics:
-      - Achievements: mechanics/achievements.md
+#      - Achievements: mechanics/achievements.md
       - Alliance: mechanics/alliance.md
-      - Attributes: mechanics/attributes.md
-      - Battlegrounds: mechanics/battlegrounds.md
-      - Combat: mechanics/combat.md
-      - Crafting: mechanics/crafting.md
+#      - Attributes: mechanics/attributes.md
+#      - Battlegrounds: mechanics/battlegrounds.md
+#      - Combat: mechanics/combat.md
+#      - Crafting: mechanics/crafting.md
       - Currency: mechanics/currency.md
-      - Dungeons: mechanics/dungeons.md
-      - Enchanting: mechanics/enchanting.md
-      - Equipment: mechanics/equipment.md
+#      - Dungeons: mechanics/dungeons.md
+#      - Enchanting: mechanics/enchanting.md
+#      - Equipment: mechanics/equipment.md
       - Factions: mechanics/factions.md
-      - Familiars: mechanics/familiars.md
+#      - Familiars: mechanics/familiars.md
       - Guilds: mechanics/guilds.md
-      - Instanced Dungeons: mechanics/instanceddungeons.md
-      - Items: mechanics/items.md
+#      - Instanced Dungeons: mechanics/instanceddungeons.md
+#      - Items: mechanics/items.md
       - Leveling: mechanics/leveling.md
-      - Mounts: mechanics/mounts.md
-      - Portals: mechanics/portals.md
-      - Quests: mechanics/quests.md
+#      - Mounts: mechanics/mounts.md
+#      - Portals: mechanics/portals.md
+#      - Quests: mechanics/quests.md
       - Recruit a Friend: mechanics/recruitafriend.md
-    - Professions:
-      - Alchemist: professions/alchemist.md
-      - Blacksmith: professions/blacksmith.md
-      - Carpenter: professions/carpenter.md
-      - Cook: professions/cook.md
-      - Enchanter: professions/enchanter.md
-      - Engineer: professions/engineer.md
-      - Jeweler: professions/jeweler.md
-      - Leatherworker: professions/leatherworker.md
-      - Tailor: professions/tailor.md
-      - Tinkerer: professions/tinkerer.md
-    - Lust Universe:
-      - Lore: lore.md
-      - Recuring Characters: recuringcharacters.md
+#    - Professions:
+#      - Alchemist: professions/alchemist.md
+#      - Blacksmith: professions/blacksmith.md
+#      - Carpenter: professions/carpenter.md
+#      - Cook: professions/cook.md
+#      - Enchanter: professions/enchanter.md
+#      - Engineer: professions/engineer.md
+#      - Jeweler: professions/jeweler.md
+#      - Leatherworker: professions/leatherworker.md
+#      - Tailor: professions/tailor.md
+#      - Tinkerer: professions/tinkerer.md
+#    - Lust Universe:
+#      - Lore: lore.md
+#      - Recuring Characters: recuringcharacters.md
     - Links:
       - Contributing: CONTRIBUTING.md
       - Discord: https://discord.gg/XN6YRfSMMt
