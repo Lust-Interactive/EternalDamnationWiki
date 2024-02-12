@@ -56,7 +56,7 @@ Content Updates for Dante's Crest will be released in "Episodes" every few month
 
 #### 2028
 - Q1: Episode 8.1 - **Beneath the Stars**
-    - Introduces Location: **Niflheim**
+    - Introduces Location: **Hel**
     - Main Quests, Level Cap Increased to 40
 - Q2: Episode 8.2 - Crafting: Weaver, Smith, Hunter
 - Q3: Episode 8.3 - Essence Slotting
@@ -64,7 +64,7 @@ Content Updates for Dante's Crest will be released in "Episodes" every few month
 
 #### 2029
 - Q1: Episode 9.1 - **Across the Forest**
-    - Introduces Location: *Unknown*
+    - Introduces Location: **Duat**
     - Main Quests, Level Cap Increased to 45
 - Q2: Episode 9.2 -
 - Q3: Episode 9.3 -
