@@ -11,8 +11,8 @@ site_dir: _site/
 nav:
     - Wiki Home: index.md
     - Game Roadmap: gameroadmap.md
-#    - Classes:
-#      - Shade: class/shade.md
+    - Classes:
+      - Shade: class/shade.md
 #      - Chaotic Good:
 #        - Archer: class/archer.md
 #        - Druid: class/druid.md

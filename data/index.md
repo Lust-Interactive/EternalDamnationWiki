@@ -18,6 +18,10 @@ The Voidtide corrupts the very fabric of reality, warping landscapes, and distor
 
 
 ## Game Synopsis
+
+*We should, perhaps, first preface that this game contains a lot of foul language and is not intended for children.*
+
+
 As players explore the game world, they will witness the devastating effects of the Voidtide firsthand. They will encounter its grotesque creations, from twisted beasts to corrupted spirits, all driven by the insatiable hunger of the cosmic force. The presence of the Voidtide is palpable, with regions tainted by its darkness becoming warped and treacherous.
 
 
