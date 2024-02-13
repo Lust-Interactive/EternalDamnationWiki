@@ -59,10 +59,12 @@ nav:
 #      - Familiars: mechanics/familiars.md
       - Guilds: mechanics/guilds.md
 #      - Instanced Dungeons: mechanics/instanceddungeons.md
+      - Items: mechanics/items.md
       - Levelling: mechanics/levelling.md
 #      - Mounts: mechanics/mounts.md
       - Nature: mechanics/nature.md
       - Portals: mechanics/portals.md
+      - Premium: mechanics/premium.md
       - Quests: mechanics/quests.md
       - Recruit a Friend: mechanics/recruitafriend.md
 #    - Professions:
