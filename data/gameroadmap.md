@@ -34,13 +34,13 @@ Content Updates for Dante's Crest will be released in "Episodes" every few month
     - Introduces Location: **Asphodel**
     - Main Quests, Level Cap Increased to 25
 - Q2: Episode 5.2 - Battleground Matching and PvP Areas
-- Q3: Episode 5.3 - Reputation & Achievements, Daily Quests
-- Q4: Episode 5.4 - Familiars, Locale Factions
+- Q3: Episode 5.3 - Reputation, Factions & Achievements, Daily Quests
+- Q4: Episode 5.4 - Familiars
 
 #### 2026
 
 - Q1: Episode 6.1 - **Beyond the Sands**
-    - Introduces Location: **Elysium**
+    - Introduces Location: **Duat**
     - Main Quests, Level Cap Increased to 30
 - Q2: Episode 6.2 - Guilds, Guild Quests
 - Q3: Episode 6.3 - Mounts
@@ -56,7 +56,7 @@ Content Updates for Dante's Crest will be released in "Episodes" every few month
 
 #### 2028
 - Q1: Episode 8.1 - **Beneath the Stars**
-    - Introduces Location: **Hel**
+    - Introduces Location: **Helheim**
     - Main Quests, Level Cap Increased to 40
 - Q2: Episode 8.2 - Crafting: Weaver, Smith, Hunter
 - Q3: Episode 8.3 - Essence Slotting
@@ -64,7 +64,7 @@ Content Updates for Dante's Crest will be released in "Episodes" every few month
 
 #### 2029
 - Q1: Episode 9.1 - **Across the Forest**
-    - Introduces Location: **Duat**
+    - Introduces Location: **Lyonesse**
     - Main Quests, Level Cap Increased to 45
 - Q2: Episode 9.2 -
 - Q3: Episode 9.3 -
@@ -72,7 +72,7 @@ Content Updates for Dante's Crest will be released in "Episodes" every few month
 
 #### 2030
 - Q1: Episode 10.1 - **Under the Depths**
-    - Introduces Location: **Actun**
+    - Introduces Location: **Xibalba**
     - Main Quests, Level Cap Increased to 50
 - Q2: Episode 10.2 - Swimming
 - Q3: Episode 10.3 - Fishing
@@ -88,7 +88,7 @@ Content Updates for Dante's Crest will be released in "Episodes" every few month
 
 #### 2032
 - Q1: Episode 12.1 - **Within the Labyrinth**
-    - Introduces Location: **Tartarus**
+    - Introduces Location: **Diyu**
     - Main Quests, Level Cap Increased to 60
 - Q2: Episode 12.2 -
 - Q3: Episode 12.3 -
