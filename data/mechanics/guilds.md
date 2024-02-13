@@ -1,9 +1,17 @@
 Creating or joining a Guild can be a very rewarding experience.
 
 ### Guild Levels
-As players earn EXP, the Guild also earns EXP as a static 1% of all earned EXP by the player. EXP is not deducted from the player.
+As players earn XP, the Guild also earns XP as a static 1% of all earned XP by the player. This XP is deducted from the player for receiving the following types of XP:
 
-Guilds have Levels which are reached by earning Guild EXP (that 1%), which will enable the Guild Leader to select Guild Skills, advancing passive bonuses and allowing the activation of skills during Alliance War. Specific Skills also enable the Guild Storage and Guild Bank, allowing players with the correct permissions to withdraw and/or deposit items/gold for other players to use.
+- Monster Kills
+- Side Quests
+
+XP is not deducted from the following:
+
+- Main Story Quests
+- Item XP Grants
+
+Guilds have Levels which are reached by earning Guild XP (that 1%), which will enable the Guild Leader to select Guild Skills, advancing passive bonuses and allowing the activation of skills during Alliance War. Specific Skills also enable the Guild Storage and Guild Bank, allowing players with the correct permissions to withdraw and/or deposit items/gold for other players to use.
 
 ### Guild Skills
 Skills:
