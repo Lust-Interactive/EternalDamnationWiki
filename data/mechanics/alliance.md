@@ -2,15 +2,15 @@ There are 3 Alliances between the realms of Incartum.
 
 #### Bloodstone Order (BO)
 - Colour: Red
-- Base City: [Mysteria](../locations/mysteria.md)
+- Base Location: [Mysteria](../locations/mysteria.md)
 
 #### Everdark Disarray (ED)
 - Colour: Green
-- Base City: Asphodel
+- Base Location: Asphodel
 
 #### Arcane Amendulum (AA)
 - Colour: Purple
-- Base City: Elysium
+- Base Location: Duat
 
 
 ### Alliance Benefits
@@ -24,3 +24,4 @@ There are 3 Alliances between the realms of Incartum.
 ### Final Notes:
 - Players cannot create an Alliance, only join an existing Alliance.
 - An Alliance Chat tab is available for talking with all online members of the same Alliance.
+- Acronyms are not to be confused with Body Odor, Erectile Dysfunction and Alcoholics Anonymous.

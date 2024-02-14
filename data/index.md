@@ -3,6 +3,8 @@
 A new MMO set in the underworld, or Hell, as the two-legged meatsacks from upstairs call it.
 Set in a Low-Poly 3D environment, complete quests as you try to find an ancient artefact that will help you defeat the "Voidtide".
 
+!!! info "Active Development"
+	Dante's Crest is currently in active development. This wiki is a work in progress and will be updated as new information becomes available.
 
 
 ## Storyline
@@ -32,3 +34,17 @@ The Voidtide will constantly evolve and adapt, posing new threats and challenges
 
 
 By introducing the Voidtide as the primary antagonist element, we will create a foreboding atmosphere and a sense of urgency for players to combat the encroaching darkness. The relentless nature of the Voidtide and its ever-present influence provide ample opportunities for engaging gameplay, cooperative experiences, and a deep exploration of the lore surrounding this sinister cosmic force and its role in the destruction of human-belief.
+
+
+!!! info "We're Hiring!"
+	We are currently looking for talented individuals to join our team. If you are interested in working on Dante's Crest, please visit our [Careers] page for more information.
+
+
+## System Requirements
+
+|				|Minimum						|Recommended					|
+|---			|---							|---							|
+| **CPU**		| Dual Core 2.1Ghz				| Quad Core	2.8Ghz+				|
+| **Memory**	| 4GB RAM						| 8GB RAM						|
+| **Disk Space**| 38GB							| 38GB		 					|
+| **Network**	| Internet Connection Required	| Internet Connection Required	|

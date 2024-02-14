@@ -13,24 +13,24 @@ nav:
     - Game Roadmap: gameroadmap.md
     - Classes:
       - Shade: class/shade.md
-#      - Chaotic Good:
-#        - Archer: class/archer.md
-#        - Druid: class/druid.md
-#        - Monk: class/monk.md
-#        - Paladin: class/paladin.md
-#        - Priest: class/priest.md
+#      - Chaotic Good:                          WoW           RO
+#        - Archer: class/archer.md              hunter        1
+#        - Druid: class/druid.md                1             -
+#        - Monk: class/monk.md                  1             1
+#        - Paladin: class/paladin.md            1             1
+#        - Priest: class/priest.md              1             1
 #      - Chaotic Neutral:
-#        - Alchemist: class/alchemist.md
-#        - Bard: class/bard.md
-#        - Engineer: class/engineer.md
-#        - Rogue: class/rogue.md
-#        - Witch Doctor: class/witchdoctor.md
+#        - Alchemist: class/alchemist.md        -             1
+#        - Bard: class/bard.md                  -             1
+#        - Engineer: class/engineer.md          -             1
+#        - Rogue: class/rogue.md                1             1
+#        - Witch Doctor: class/witchdoctor.md   1             -
 #      - Chaotic Evil:
-#        - Dread Knight: class/dreadknight.md
-#        - Necromancer: class/necromancer.md
-#        - Shadowblade: class/shadowblade.md
-#        - Sorcerer: class/sorcerer.md
-#        - Warlock: class/warlock.md
+#        - Dread Knight: class/dreadknight.md   1             -
+#        - Necromancer: class/necromancer.md    -             -
+#        - Shadowblade: class/shadowblade.md    warrior       -
+#        - Sorcerer: class/sorcerer.md          1             1
+#        - Warlock: class/warlock.md            1             1
     - Locations:
       - Tutorial: locations/tutorial.md
       - Mysteria: locations/mysteria.md
@@ -67,6 +67,7 @@ nav:
       - Premium: mechanics/premium.md
       - Quests: mechanics/quests.md
       - Recruit a Friend: mechanics/recruitafriend.md
+      - Skills: mechanics/skills.md
 #    - Professions:
 #      - Alchemist: professions/alchemist.md
 #      - Blacksmith: professions/blacksmith.md
