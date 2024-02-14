@@ -52,13 +52,13 @@ nav:
 #      - Combat: mechanics/combat.md
 #      - Crafting: mechanics/crafting.md
       - Currency: mechanics/currency.md
-#      - Dungeons: mechanics/dungeons.md
 #      - Enchanting: mechanics/enchanting.md
 #      - Equipment: mechanics/equipment.md
       - Factions: mechanics/factions.md
 #      - Familiars: mechanics/familiars.md
+      - Gathering: mechanics/gathering.md
       - Guilds: mechanics/guilds.md
-#      - Instanced Dungeons: mechanics/instanceddungeons.md
+      - Instanced Dungeons: mechanics/instances.md
       - Items: mechanics/items.md
       - Levelling: mechanics/levelling.md
 #      - Mounts: mechanics/mounts.md
