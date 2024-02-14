@@ -45,7 +45,7 @@ nav:
 #      - Chaos: locations/chaos.md
       - Event Locations: locations/events.md
     - Mechanics:
-#      - Achievements: mechanics/achievements.md
+      - Achievements: mechanics/achievements.md
       - Alliance: mechanics/alliance.md
 #      - Attributes: mechanics/attributes.md
 #      - Battlegrounds: mechanics/battlegrounds.md
