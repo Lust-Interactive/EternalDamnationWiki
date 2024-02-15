@@ -55,7 +55,7 @@ nav:
 #      - Enchanting: mechanics/enchanting.md
 #      - Equipment: mechanics/equipment.md
       - Factions: mechanics/factions.md
-#      - Familiars: mechanics/familiars.md
+      - Familiars: mechanics/familiars.md
       - Gathering: mechanics/gathering.md
       - Guilds: mechanics/guilds.md
       - Instanced Dungeons: mechanics/instances.md
