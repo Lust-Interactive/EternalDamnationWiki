@@ -18,7 +18,8 @@ There are 3 Alliances between the realms of Incartum.
 
 
 ### Alliance Ranks
-- To be confirmed.
+Before any rank is bestowed upon a player, they must have accumulated 1,000 contribution points.
+
 
 
 ### Final Notes:
