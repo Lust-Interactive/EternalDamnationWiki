@@ -1,8 +1,8 @@
-site_name: Dante's Crest Wiki
-site_url: https://lust-interactive.github.io/DantesCrestWiki/
-repo_url: https://github.com/lust-interactive/dantescrestwiki/
-repo_name: lust-interactive/dantescrestwiki
-site_description: Dante's Crest Wiki
+site_name: Eternal Damnation Wiki
+site_url: https://lust-interactive.github.io/EternalDamnationWiki/
+repo_url: https://github.com/lust-interactive/EternalDamnationWiki/
+repo_name: lust-interactive/EternalDamnationWiki
+site_description: Eternal Damnation Wiki
 site_author: Lust Interactive Ltd
 copyright: Copyright(c) Lust Interactive Ltd, 2023
 docs_dir: data
@@ -126,7 +126,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/wikipedia-w
-      link: https://lust-interactive.github.io/DantesCrestWiki/
+      link: https://lust-interactive.github.io/EternalDamnationWiki/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/XN6YRfSMMt
 
