@@ -13,36 +13,9 @@ nav:
     - Game Roadmap: gameroadmap.md
     - Classes:
       - Shade: class/shade.md
-#      - Chaotic Good:                          WoW           RO
-#        - Archer: class/archer.md              hunter        1
-#        - Druid: class/druid.md                1             -
-#        - Monk: class/monk.md                  1             1
-#        - Paladin: class/paladin.md            1             1
-#        - Priest: class/priest.md              1             1
-#      - Chaotic Neutral:
-#        - Alchemist: class/alchemist.md        -             1
-#        - Bard: class/bard.md                  -             1
-#        - Engineer: class/engineer.md          -             1
-#        - Rogue: class/rogue.md                1             1
-#        - Witch Doctor: class/witchdoctor.md   1             -
-#      - Chaotic Evil:
-#        - Dread Knight: class/dreadknight.md   1             -
-#        - Necromancer: class/necromancer.md    -             -
-#        - Shadowblade: class/shadowblade.md    warrior       -
-#        - Sorcerer: class/sorcerer.md          1             1
-#        - Warlock: class/warlock.md            1             1
     - Locations:
       - Tutorial: locations/tutorial.md
       - Mysteria: locations/mysteria.md
-#      - Asphodel: locations/asphodel.md
-#      - Duat: locations/duat.md
-#      - Guinee: locations/guinee.md
-#      - Helheim: locations/Helheim.md
-#      - Xibalba: locations/xibalba.md
-#      - Hekla Fell: locations/heklafell.md
-#      - Diyu: locations/diyu.md
-#      - Erebus: locations/erebus.md
-#      - Chaos: locations/chaos.md
       - Event Locations: locations/events.md
     - Mechanics:
       - Achievements: mechanics/achievements.md
@@ -83,6 +56,8 @@ nav:
 #      - Lore: lore.md
 #      - Recuring Characters: recuringcharacters.md
     - Links:
+      - Lust Website: https://lustinteractive.co.uk/
+      - Game Website Link: https://eternal-damnation.com/
       - Contributing: CONTRIBUTING.md
       - Discord: https://discord.gg/XN6YRfSMMt
 theme:
