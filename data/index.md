@@ -1,4 +1,4 @@
-# Welcome to the Dante's Crest Wiki
+# Welcome to the Eternal Damnation Wiki
 
 A new MMO set in the underworld, or Hell, as the two-legged meatsacks from upstairs call it.
 Set in a Low-Poly 3D environment, complete quests as you try to find an ancient artefact that will help you defeat the "Voidtide".

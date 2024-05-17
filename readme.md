@@ -1,1 +1,1 @@
-This is the codebase that is converted automatically to our wiki for Dante's Crest, located at [https://lust-interactive.github.io/DantesCrestWiki/](https://lust-interactive.github.io/DantesCrestWiki/).
+This is the codebase that is converted automatically to our wiki for Eternal Damnation, located at [https://lust-interactive.github.io/EternalDamnationWiki/](https://lust-interactive.github.io/EternalDamnationWiki/).
