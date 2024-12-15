@@ -1,4 +1,4 @@
-Creating or joining a Guild can be a very rewarding experience.
+Creating or joining a [Guild](https://eternal-damnation.com/guild.php) can be a very rewarding experience.
 
 ## Guild Creation
 

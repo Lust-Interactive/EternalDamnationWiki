@@ -4,7 +4,7 @@ repo_url: https://github.com/lust-interactive/EternalDamnationWiki/
 repo_name: lust-interactive/EternalDamnationWiki
 site_description: Eternal Damnation Wiki
 site_author: Lust Interactive Ltd
-copyright: Copyright(c) Lust Interactive Ltd, 2023
+copyright: Copyright &copy; Lust Interactive Ltd, 2024
 docs_dir: data
 site_dir: _site/
 
@@ -41,6 +41,7 @@ nav:
       - Quests: mechanics/quests.md
       - Recruit a Friend: mechanics/recruitafriend.md
       - Skills: mechanics/skills.md
+      - Vote Sites: mechanics/vote.md
 #    - Professions:
 #      - Alchemist: professions/alchemist.md
 #      - Blacksmith: professions/blacksmith.md

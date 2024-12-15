@@ -1,4 +1,4 @@
-One method of keeping track on your progress in the game is through the use of Achievements. These are in-game goals that, when completed, reward the player with various items, titles, and other bonuses. Achievements are divided into several categories, such as Exploration, Combat, Crafting, and Social, and are tracked in the player's journal. Players can view their progress, and the rewards for each achievement, by opening the journal and navigating to the Achievements tab.
+One method of keeping track on your progress in the game is through the use of [Achievements](https://eternal-damnation.com/achievements.php). These are in-game goals that, when completed, reward the player with various items, titles, and other bonuses. Achievements are divided into several categories, such as Exploration, Combat, Crafting, and Social, and are tracked in the player's journal. Players can view their progress, and the rewards for each achievement, by opening the journal and navigating to the Achievements tab.
 
 ## Achievement Types
 
