@@ -2,7 +2,7 @@ Whether rightly or wrongly, Mysteria is dubbed the Capital of Incartum. It is wh
 
 Mysteria is a hub of activity and is the central location for all players to meet and interact. It is a place of commerce, where players can buy and sell items, and a place of socialization, where players can meet and form parties, guilds, and alliances. It is also a place of learning, where players can train and improve their skills, and a place of entertainment, where players can participate in various activities, such as minigames, contests, and events.
 
-It is the first major location released, as part of **Episode 4 - Realm of the Dead**, and is the starting point for all players once they leave the [tutorial](tutorial.md).
+Mysteria was the first major location released.
 
 ### Important Locations
 
@@ -25,7 +25,7 @@ The Crypt is a place of mystery and danger, where players can explore and uncove
 Players can form guilds and work together to achieve common goals. All guilds in the game world are registered in Mysteria's Guild Hall.
 
 #### Undernational Railway
-The Undernational Railway is one of the systems of transportation that connects Mysteria to other locations in Incartum.
+The Undernational Railway is one of the systems of transportation that connects Mysteria to [other locations](../mechanics/travelling.md) in Incartum.
 
 #### Demon Mail Office
 The Demon Mail Office is a place for communication, where players can send and receive messages and stay in touch with friends and allies. This physical location allows players to send and receive mail, although this can be done using the UI from anywhere in the game.

@@ -14,7 +14,6 @@ nav:
     - Classes:
       - Shade: class/shade.md
     - Locations:
-      - Tutorial: locations/tutorial.md
       - Mysteria: locations/mysteria.md
       - Event Locations: locations/events.md
     - Mechanics:
@@ -41,6 +40,7 @@ nav:
       - Quests: mechanics/quests.md
       - Recruit a Friend: mechanics/recruitafriend.md
       - Skills: mechanics/skills.md
+      - Travelling: mechanics/travelling.md
       - Vote Sites: mechanics/vote.md
 #    - Professions:
 #      - Alchemist: professions/alchemist.md
